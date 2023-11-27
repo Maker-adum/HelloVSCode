@@ -1,0 +1,14 @@
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\bin\Debug\net8.0\HelloVSCode.exe
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\bin\Debug\net8.0\HelloVSCode.deps.json
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\bin\Debug\net8.0\HelloVSCode.runtimeconfig.json
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\bin\Debug\net8.0\HelloVSCode.dll
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\bin\Debug\net8.0\HelloVSCode.pdb
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.AssemblyInfoInputs.cache
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.AssemblyInfo.cs
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.csproj.CoreCompileInputs.cache
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.dll
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\refint\HelloVSCode.dll
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.pdb
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\HelloVSCode.genruntimeconfig.cache
+C:\Users\dell\desktop\CSharpProjects\HelloVSCode\obj\Debug\net8.0\ref\HelloVSCode.dll
